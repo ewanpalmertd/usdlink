@@ -1,3 +1,4 @@
 .DS_store
 *.usd*
-range.py
+# range.py
+dump/

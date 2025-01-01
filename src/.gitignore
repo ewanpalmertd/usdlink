@@ -2,3 +2,5 @@
 *.usd*
 # range.py
 dump/
+__pycache__/
+
